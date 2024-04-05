@@ -1,5 +1,8 @@
-# Geospatialresources
+# Geospatial resources
 Resources, courses, inspiration maps, etc
+
+Data
+* [Shaded relief archive](https://www.shadedreliefarchive.com/Southern_Africa_CIA.html)
 
 Tools
 * [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) : biggest compilation of tools
