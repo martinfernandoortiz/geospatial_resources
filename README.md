@@ -14,6 +14,7 @@ Maps
 * [Kings Topograhical Collection](https://www.flickr.com/photos/britishlibrary/albums/72157716220271206/page10)
 * 
 People
+* [Daniel Huffman](https://somethingaboutmaps.com/)
 * [Evan Apple Gate](https://evanapplegate.com/)
 * [Eleanor Lutz](https://github.com/eleanorlutz)
 * [Alex McPhee](https://awmcphee.ca/)
